@@ -1,3 +1,7 @@
 this is simply a test
 This is an added line
+<<<<<<< HEAD
 Lets Play
+=======
+I added this line - Obliviator
+>>>>>>> f8f3e9beaa17e04a7882e90014b28a74865342bf
